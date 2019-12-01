@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{5ADDC366-0BEF-4AD4-B816-9504E572A6FD}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Actio" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Actio.Services.Identity" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.src.Actio.Api PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
